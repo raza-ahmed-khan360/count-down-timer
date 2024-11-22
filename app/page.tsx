@@ -3,7 +3,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className='font-sans'>
+    <div className="font-sans bg-red-200">
       <Countdown/>
     </div>
   )
